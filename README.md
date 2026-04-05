@@ -21,13 +21,6 @@ Here is a visual walk-through of the IPASAS platform in action:
 > *The central Streamlit dashboard where users can adjust magnetic field strength, initial velocity, and noise levels. The interface displays real-time 3D and 2D particle trajectories alongside live energy metrics.*
 </details>
 
-<details open>
-<summary><b>2. Simulations of Future</b></summary>
-<br>
-
-![ML Predictions](images/hr.png)
-> *The machine learning module classifying beam states as stable or unstable based on trajectory drift and energy loss characteristics.*
-</details>
 
 <details open>
 <summary><b>3. Higher Researches</b></summary>
@@ -69,6 +62,14 @@ IPASAS directly mirrors the following real research areas:
 CERN's own Machine Learning applications group identifies these as active research priorities — beam lifetime optimisation, loss detection, and predictive maintenance using ML are published in the CERN Yellow Reports and NIM-A journal. IPASAS is a ground-up implementation of this same pipeline.
 
 ---
+
+<details open>
+<summary><b>2. Simulations of Future</b></summary>
+<br>
+
+![ML Predictions](images/hr.png)
+> *The machine learning module classifying beam states as stable or unstable based on trajectory drift and energy loss characteristics.*
+</details>
 
 ## 🧱 System Architecture
 
