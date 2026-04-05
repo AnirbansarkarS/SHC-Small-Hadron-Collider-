@@ -17,23 +17,23 @@ Here is a visual walk-through of the IPASAS platform in action:
 <summary><b>1. Interactive Beam Simulation Dashboard</b></summary>
 <br>
 
-![Simulation Dashboard](images/simulation_dashboard.png)
+![Simulation Dashboard](images/dash.png)
 > *The central Streamlit dashboard where users can adjust magnetic field strength, initial velocity, and noise levels. The interface displays real-time 3D and 2D particle trajectories alongside live energy metrics.*
 </details>
 
 <details open>
-<summary><b>2. ML Model Training & Stability Predictions</b></summary>
+<summary><b>2. Simulations of Future</b></summary>
 <br>
 
-![ML Predictions](images/ml_predictions.png)
+![ML Predictions](images/hr.png)
 > *The machine learning module classifying beam states as stable or unstable based on trajectory drift and energy loss characteristics.*
 </details>
 
 <details open>
-<summary><b>3. Physics Data Analysis & Plots</b></summary>
+<summary><b>3. Higher Researches</b></summary>
 <br>
 
-![Analysis Plots](images/analysis_plots.png)
+![Analysis Plots](images/cool.png)
 > *Generated analytical and statistical charts (e.g., energy histograms, spatial distribution) used to tune the simulation engine to match real-world CERN telemetry.*
 </details>
 
