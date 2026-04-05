@@ -14,6 +14,15 @@
 Here is a visual walk-through of the IPASAS platform in action:
 
 <details open>
+<summary><b>3. Higher Researches</b></summary>
+<br>
+
+![Analysis Plots](images/cool.png)
+> *Generated analytical and statistical charts (e.g., energy histograms, spatial distribution) used to tune the simulation engine to match real-world CERN telemetry.*
+</details>
+
+
+<details open>
 <summary><b>1. Interactive Beam Simulation Dashboard</b></summary>
 <br>
 
@@ -21,14 +30,6 @@ Here is a visual walk-through of the IPASAS platform in action:
 > *The central Streamlit dashboard where users can adjust magnetic field strength, initial velocity, and noise levels. The interface displays real-time 3D and 2D particle trajectories alongside live energy metrics.*
 </details>
 
-
-<details open>
-<summary><b>3. Higher Researches</b></summary>
-<br>
-
-![Analysis Plots](images/cool.png)
-> *Generated analytical and statistical charts (e.g., energy histograms, spatial distribution) used to tune the simulation engine to match real-world CERN telemetry.*
-</details>
 
 ---
 
